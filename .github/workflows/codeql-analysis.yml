@@ -58,3 +58,4 @@ jobs:
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v3
 [![CodeQL](https://github.com/zaldynsqyn6-cmyk/checkout/actions/workflows/codeql-analysis.yml/badge.svg?event=workflow_run)](https://github.com/zaldynsqyn6-cmyk/checkout/actions/workflows/codeql-analysis.yml)
+[![.github/workflows/codeql-analysis.yml](https://github.com/zaldynsqyn6-cmyk/checkout/actions/workflows/codeql-analysis.yml/badge.svg?branch=test-data%2Fv2%2Fbasic&event=workflow_run)](https://github.com/zaldynsqyn6-cmyk/checkout/actions/workflows/codeql-analysis.yml)
